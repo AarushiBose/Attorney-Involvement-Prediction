@@ -3,4 +3,5 @@
 
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/44f864f5-6428-4f91-aa49-d6c82b77fc3f)
+![image](https://github.com/user-attachments/assets/bbbb95d6-b60e-4581-9244-c161602eb765)
+
