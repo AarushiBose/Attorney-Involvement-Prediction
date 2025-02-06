@@ -5,6 +5,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+## **🎲 Deployed App Link **
+⛓️‍💥 https://attorney-involvement-prediction-betswgdhvxpqzbje7gb8z7.streamlit.app/
+---
 
 ## **📌 Project Overview**
 This **Attorney Involvement Prediction** application helps insurance companies determine whether an **attorney will be involved** in an insurance claim. The model is trained using **logistic regression** and implemented using **Streamlit** for an interactive UI.
