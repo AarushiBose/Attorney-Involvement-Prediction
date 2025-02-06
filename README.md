@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-## **🎲 Deployed App Link **
+## **🎲 Deployed App Link**
 ⛓️‍💥 https://attorney-involvement-prediction-betswgdhvxpqzbje7gb8z7.streamlit.app/
 ---
 
