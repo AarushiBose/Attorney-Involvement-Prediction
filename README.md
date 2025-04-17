@@ -4,6 +4,10 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
+![image](https://github.com/user-attachments/assets/3619f6cd-c0da-4d64-acdc-d3ea725988bd)
+
+
 ---
 ## **🎲 Deployed App Link**
 ⛓️‍💥 https://attorney-involvement-prediction-betswgdhvxpqzbje7gb8z7.streamlit.app/
